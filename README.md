@@ -53,7 +53,7 @@ Para ver el proyecto en tu computadora, sigue estos pasos:
 - Descarga el proyecto: Si sabes usar Git, solo clona el repositorio. Si no, puedes descargar el proyecto como un archivo ZIP.
 
 - Abre el archivo ```index.html```: Busca el archivo en la carpeta que descargaste y haz doble clic sobre él. Se abrirá en tu navegador web.
-
+- Sigue el siguiente link para poder probarlo: https://dav1jim.github.io/Challenge-Amigo-Secreto/
 ¡Y eso es todo! Ya puedes empezar a usarla.
 
 

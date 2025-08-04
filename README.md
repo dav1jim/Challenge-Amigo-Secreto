@@ -58,7 +58,7 @@ Para ver el proyecto en tu computadora, sigue estos pasos:
 
 
 <h2>👤 Autor y Agradecimientos</h2>
-Davdi Ricardo Jiménez López
+David Ricardo Jiménez López
 
 Quiero agradecer al programa ONE Oracle Next Education y a Alura Latam por el desafío. Me ayudaron mucho a aprender y a crear este proyecto.
 
